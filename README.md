@@ -2,6 +2,9 @@
 
 Flock Lab is a native Rust/wgpu flocking and crowd simulation demo for macOS. It renders thousands of multi-species agents as lit 3D drones, with GPU compute simulation, storage-buffer rendering, spatial grid debug overlays, and an egui control panel.
 
+<img width="2962" height="2200" alt="image" src="https://github.com/user-attachments/assets/eb189b92-2a2a-4d92-94a2-63e09168f33f" />
+
+
 ## Run
 
 ```sh
